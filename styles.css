@@ -2,4 +2,11 @@
 th,td{
 	border:1px solid;
 	border-radius:5px;
+	padding:8px;
+}
+tr:nth-child(odd){
+	background-color:grey
+}
+tr:nth-child(1){
+	background-color:white
 }
